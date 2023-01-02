@@ -8,3 +8,4 @@
  </ul>
  <p> On clicking "save" button the total count will be recorded in previous entry section within UI and reser the counter to 0 .</p>
 <p> This simple application is made using HTML, CSS and Javascript.</p>
+<p> Please click on <i><a href="https://eclectic-smakager-d53228.netlify.app/">Deployed application url</a></i> to run the application</p>
